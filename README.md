@@ -1,4 +1,4 @@
-<img height="100px" style="border-radius:50px" src="https://c.tenor.com/zZwhISRsAnQAAAAM/code.gif" alt="anurag vaibhav"/> 
+![](https://c.tenor.com/aAZuw0Z8VWgAAAAM/hello-cat.gif)
 # Hola! 👋 i am  Anurag. 
 <br>
 <!--
