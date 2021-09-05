@@ -1,7 +1,5 @@
-# Hola! 👋 i am  Anurag.
+# Hola! 👋 i am  Anurag. <image src="https://mrallhats.web.app/assets/img/me1.jpg" alt="anurag vaibhav"/>
 <br>
-
-![anurag vaibhav](https://mrallhats.web.app/assets/img/me1.jpg)
 <!--
 **itisianurag/itisianurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
