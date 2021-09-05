@@ -1,5 +1,5 @@
 ***
-<table style="width:100%;border:0px;">
+<table style="width:100vw;border:0px;">
 <tr>
 <td>
 <img src="https://itisianurag.github.io/assets/img/hello-cat.gif">
