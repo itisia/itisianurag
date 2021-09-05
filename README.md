@@ -1,7 +1,7 @@
 # Hola! 👋 i am  Anurag.
 <br>
 
-## anurag is great
+![anurag vaibhav]
 <!--
 **itisianurag/itisianurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
