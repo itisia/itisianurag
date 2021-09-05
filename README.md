@@ -1,4 +1,4 @@
-# Hola! 👋 i am  Anurag. <image height="40px" src="https://mrallhats.web.app/assets/img/me1.jpg" alt="anurag vaibhav"/>
+<image height="100px" style="border-radius:50%;" src="https://mrallhats.web.app/assets/img/me1.jpg" alt="anurag vaibhav"/># Hola! 👋 i am  Anurag. 
 <br>
 <!--
 **itisianurag/itisianurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
