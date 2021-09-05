@@ -1,4 +1,4 @@
-<image height="100px" style="border-radius:50px" src="https://mrallhats.web.app/assets/img/me1.jpg" alt="anurag vaibhav"/> 
+<img height="100px" style="border-radius:50px" src="https://mrallhats.web.app/assets/img/me1.jpg" alt="anurag vaibhav"/> 
 # Hola! 👋 i am  Anurag. 
 <br>
 <!--
