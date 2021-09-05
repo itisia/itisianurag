@@ -1,16 +1,3 @@
-***
-<table style="width:100vw;border:0px;">
-<tr>
-<td>
-<img src="https://itisianurag.github.io/assets/img/hello-cat.gif">
-</td>
-<td>
-Hola! wave i am Anurag.
-</td>
-</tr>
-</table>
-
-
 # Hola! 👋 i am  Anurag. 
 <br>
 <!--
