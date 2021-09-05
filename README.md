@@ -1,11 +1,13 @@
 ***
-|![](https://c.tenor.com/aAZuw0Z8VWgAAAAM/hello-cat.gif)| <h2># Hola! i am Anurag Vaibhav .</h2>|asdfasdf|
-|---|-:|---|
-<table>
- <tr>
-   <td>adfasdf</td>
-   <td>adfasdf</td><td>adfasdf</td>
-  </tr>
+<table style="width:100%;border:0px;">
+<tr>
+<td>
+<img src="https://itisianurag.github.io/../../assets/img/hello-cat.gif">
+</td>
+<td>
+Hola! wave i am Anurag.
+</td>
+</tr>
 </table>
 
 
