@@ -2,7 +2,7 @@
 <table style="width:100%;border:0px;">
 <tr>
 <td>
-<img src="https://itisianurag.github.io/../../assets/img/hello-cat.gif">
+<img src="https://itisianurag.github.io/assets/img/hello-cat.gif">
 </td>
 <td>
 Hola! wave i am Anurag.
